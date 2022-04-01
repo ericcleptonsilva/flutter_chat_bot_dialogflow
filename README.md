@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 # Sobre a minha experiência neste projeto
 
 estava a procura de aprender com os pequenos tutoriais da google, me deparei com este projeto para criar uma chatbot.
-Eu percebi que quanto mais eu lia mais viar a facilidade na motantagem do projeto pegandos os exemplos dos codigos, há uns 2 anos eu não teria entedido nada do que estava escrito aqui memos traduzindo o site.
+Eu percebi que quanto mais eu lia mais via a facilidade na motantagem do projeto pegandos os exemplos dos codigos, há uns 2 anos eu não teria entedido nada do que estava escrito aqui memos traduzindo o site.
 hoje vejo como eu progredi.
 
 
